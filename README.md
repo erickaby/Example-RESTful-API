@@ -19,3 +19,5 @@ The layered system style allows an architecture to be composed of hierarchical l
 
 ### Code on demand (optional)
 REST allows client functionality to be extended by downloading and executing code in the form of applets or scripts. This simplifies clients by reducing the number of features required to be pre-implemented.
+
+https://www.youtube.com/watch?v=2jqok-WgelI
